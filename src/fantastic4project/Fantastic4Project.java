@@ -6,7 +6,7 @@ package fantastic4project;
 
 /**
  *
- * @author hp
+ * @author navjeet
  */
 public class Fantastic4Project {
 
